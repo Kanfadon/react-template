@@ -1,0 +1,12 @@
+{
+    "plugins": [
+        "stylelint-less"
+    ],
+    "extends": "stylelint-config-standard",
+    "rules": {
+        "indentation": 4,
+        "at-rule-no-unknown": null,
+        "color-no-invalid-hex": true,
+        "less/color-no-invalid-hex": true
+    }
+}
